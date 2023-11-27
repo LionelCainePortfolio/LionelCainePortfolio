@@ -1,3 +1,4 @@
+
 Welcome to My GitHub Profile!
 Hello! I'm Lionel Caine, an experienced Full Stack Developer specializing in crafting innovative mobile applications for the Android platform. With a passion for designing and implementing solutions that combine functionality and aesthetics, I aim to deliver unforgettable user experiences.
 
@@ -10,16 +11,17 @@ About Me
 
 Android Studio: My go-to tool for creating cutting-edge Android applications.
 Java: As my primary programming language, I use it for both front-end and back-end development.
-Kotlin: Proficient in Kotlin to enhance code efficiency and readability.
+Kotlin: I only know the basics as I am just learning it, however, I try to use it when it is a better option to increase the efficiency and readability of the code.
 Android SDK: Extensive knowledge of the SDK, utilizing its full range of features for building responsive and optimized applications.
 SQLite: Efficient management of databases in mobile applications.
 Retrofit: Handling network communication in Android applications.
 Firebase: Leveraging Firebase tools for rapid prototyping, data analysis, and authentication.
 Room: Utilizing Room for local database management in Android applications.
+
 Skills and Experience
 🛠️ I possess skills in:
 
-Programming Languages: Java, PHP, Kotlin, C++.
+Programming Languages: Java, PHP, Kotlin, C+++.
 Web Technologies: HTML, CSS, JavaScript.
 Databases: SQL, Room.
 Data Formats: XML, JSON.
@@ -34,20 +36,13 @@ Completed Courses
 [Course Name 3] - Udemy
 
 Additional Skills and Interests
-🌐 Furthermore, I have experience in:
-
-Creating simple websites.
-Developing extensions for Chrome browsers.
-Database management.
-Designing basic graphics and illustrations using Adobe Illustrator and Adobe Photoshop.
-Contact
-I am open to exciting projects and collaborations. If you are interested in my skills or would like to discuss technology, feel free to reach out!
-
+🌐 Furthermore, I have a keen interest in:
 
 Psychology: Exploring the intricacies of human behavior.
 Sales Techniques and Marketing: Understanding the art of effective communication and promotion.
 Technology and AI Enthusiast: A fervent admirer of modern devices and artificial intelligence.
-
+Contact
+I am open to exciting projects and collaborations. If you are interested in my skills or would like to discuss technology, feel free to reach out!
 
 📧 caineprv@gmail.com
 🔗 LinkedIn
