@@ -29,6 +29,14 @@ Hello! I'm Lionel Caine, an experienced Full Stack Developer specializing in cra
 <b>Version Control System: Git.</b><br>
 <b>Work Methodologies: AGILE/SCRUM.</b><br>
 <br>
+✅ My repos:<br>
+<a href="https://github.com/LionelCainePortfolio/Profitz---comprehensive-educational-and-holistic-android-mobile-app">Profitz---comprehensive-educational-and-holistic-android-mobile-app</a><br>
+<a href="https://github.com/LionelCainePortfolio/Ali-Product-Finder---chrome-extension">Ali-Product-Finder---chrome-extension</a><br>
+<a href="https://github.com/LionelCainePortfolio/PHP-Roulette-Script">PHP-Roulette-Script</a><br>
+<a href="https://github.com/LionelCainePortfolio/eCommerce-Product-Management-Platform">eCommerce-Product-Management-Platform</a><br>
+<a href="https://github.com/LionelCainePortfolio/Shopify-Product-Metafield-Updater--source-price-script-Dropshipping-DS-Store-automation-">Shopify-Product-Metafield-Updater--source-price-script-Dropshipping-DS-Store-automation</a>
+
+<br>
 📚 I started my adventure with mobile applications long before I finished these courses. I mainly learned beforehand from tutorials on yt, online forums, stackoverflow and by trial and error. Quite recently I came across udemy and decided that I would buy some courses to brush up on my current knowledge. Since then, I have regularly attended IT courses, earning certifications that I am happy to share during interviews.
 <br><br>
 <b>Completed Courses</b><br>
